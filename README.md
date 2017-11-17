@@ -14,15 +14,18 @@ Make sure you have these installed and can run them from your terminal
 
 ## Setup
 Clone this repo onto your desktop with:
+
 `git clone https://github.com/khuongTiet/ocular.git`
+
 Go to the directory with:
+
 `cd ocular`
+
 Install the dependencies with:
-`npm install`
-or
-`yarn`
+
+`npm install` or `yarn`
+
 Start the local development server with:
-`npm start`
-or
-`yarn start`
+
+`npm start` or `yarn start`
 
